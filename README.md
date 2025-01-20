@@ -1,6 +1,4 @@
 Final Project Parameters
-	
-- Your final project will be a stand-alone interactive narrative game with the following parameters:
 - Created using Twine 2
 - At least 7,500 words long
 - At least three (3) characters in the story
